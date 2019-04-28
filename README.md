@@ -22,6 +22,10 @@ Project concern Fisher’s Iris data set.
 
 ### Tools
 
+##### In case of problem with rendering notebook .ipynb file on GitHub please use  [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
+
+##### Please copy and past link from GitHub to nbviewer. Thank You
+
 To analyse Iris Data Set I work with Python 3.7 and Jupyter Notebook.  
 
 <img width='400px' align='left' src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'>
